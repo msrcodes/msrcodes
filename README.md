@@ -8,11 +8,7 @@
 [![Linkedin: mikaelsrozee](https://img.shields.io/badge/-mikaelsrozee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaelsrozee/)](https://www.linkedin.com/in/mikaelsrozee/)
 [![GitHub: msrcodes](https://img.shields.io/github/followers/msrcodes?label=follow%20msrcodes&style=social)](https://github.com/msrcodes)
 
-- 🌱 I’m currently **learning Go**
-- 🔭 I’m currently working with Elanco Animal Health as a Technical Lead - Web Technologies
-- 🤔 Want to **talk**: [let's chat!](https://www.linkedin.com/in/mikaelsrozee/)
-- 💬 Ask me about TypeScript, Headless CMS and software engineering principles
-- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working with Urban Intelligence as a Senior Software Engineer
 
 ## What's in my stack?
 
